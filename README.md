@@ -25,7 +25,10 @@
 <a href="https://instagram.com/g__e__o__r__g__e___" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+  <a href="https://instagram.com/g__e__o__r__g__e___" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
+
 
   
 
