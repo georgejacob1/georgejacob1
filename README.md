@@ -19,9 +19,6 @@
 
 📫 How to reach me - jacobgeorge399@gmail.com  
 <div align="left">
-  <a href="https://georgejacob1.github.io" target="_blank">
-<img src=https://img.shields.io/badge/-Resume-white alt=resume style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/georgejacob1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -77,7 +74,7 @@
         
   <br/>
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=georgejacob1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgejacob1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img  align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgejacob1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 <br/>
