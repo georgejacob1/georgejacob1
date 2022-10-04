@@ -25,7 +25,11 @@
 <a href="https://instagram.com/g__e__o__r__g__e___" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/george-jacob-2a4a20224/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/g__e__o__r__g__e___/)](https://www.instagram.com/a1an_shijo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacobgeoreg399@gmail.com)](mailto:alanshijoatkl@gmail.com)
 </div>  
+
   
 
 <br/>  
