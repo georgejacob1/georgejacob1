@@ -17,7 +17,7 @@
   ## 😎 About me
 [![My Resume](https://img.shields.io/badge/-Resume-white)](https://georgejacob1.github.io/)
 
-📫 How to reach me - jacobgeorge399@gmail.com  
+📫 How to reach me - 
 <div align="left">
 <a href="https://github.com/georgejacob1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
