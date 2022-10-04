@@ -1,7 +1,6 @@
 ### Hi, I'm George jacob a Developer 🚀 from India. 
 <img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
-## 😁 About me
-[![My Resume](https://img.shields.io/badge/-Resume-white)](https://georgejacob1.github.io/)
+
   
 
 - 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.  
@@ -14,10 +13,15 @@
   
 
 - ⚡️ Fun fact:I love to Travel.  
-  
+- 
+  ## 😎 About me
+[![My Resume](https://img.shields.io/badge/-Resume-white)](https://georgejacob1.github.io/)
 
 📫 How to reach me - jacobgeorge399@gmail.com  
 <div align="left">
+  <a href="https://georgejacob1.github.io" target="_blank">
+<img src=https://img.shields.io/badge/-Resume-white alt=resume style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/georgejacob1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
