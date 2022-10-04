@@ -1,4 +1,5 @@
-### Hi, I'm George jacob a Developer 🚀 from India.  
+### Hi, I'm George jacob a Developer 🚀 from India. 
+<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
   
 
 - 🔭 I’m currently a MCA student in Amal Jyothi College,Kanjirapally.  
@@ -68,6 +69,17 @@
 
 
 <br />
+
+## 📊 My Github Stats
+        
+  <br/>
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Rovy-M-Varghese&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rovy-M-Varghese&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ 
+<br/>
+<img alt="Rovy-M-Varghese's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rovy-M-Varghese&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 ----
 
