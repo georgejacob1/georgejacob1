@@ -1,5 +1,5 @@
 ### Hi, I'm George jacob a Developer ☮️ from India. 
-<img align= "right" alt="Coding" width="450" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
+<img align= "right" alt="Coding" width="410" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
   
 
