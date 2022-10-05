@@ -1,5 +1,5 @@
 ### Hi, I'm George jacob a Developer 🚀 from India. 
-<img align= "right" alt="Coding" width="450" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
+<img align= "right" alt="Coding" width="400" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 
   
 
@@ -19,16 +19,6 @@
 
 📫 How to reach me - 
 <div align="left">
-<a href="https://mail.google.com/mail/u/0/?to=jacobgeorge399@gmail.com&fs=1&tf=cm" target="_blank">
-<img src=https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a> 
-<a href="https://linkedin.com/in/george-jacob-2a4a20224" target="_blank">
-<img src=https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/g__e__o__r__g__e___" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-
 <a href="https://linkedin.com/in/george-jacob-2a4a20224"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/g__e__o__r__g__e___"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.snapchat.com/add/george_j5730?share_id=yxrjIAb0Sog&locale=en-US"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" /></a>
