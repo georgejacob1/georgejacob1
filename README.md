@@ -3,7 +3,7 @@
 
   
 
-- 🧭 currently a MCA student in Amal Jyothi College,Kanjirapally.  
+- 🧭 currently pursuing my MCA @ Amal Jyothi College,Kanjirapally.  
   
 
 - 🎯 currently learning Python  
