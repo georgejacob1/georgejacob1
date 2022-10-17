@@ -69,7 +69,7 @@
 ## 📊 My Github Stats
         
   <br/>
-   <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> <a href="http://www.github.com/georgejacob1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+   <img src="https://github-readme-stats-georgejacob1.vercel.app/api?username=georgejacob1&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="GeorgeJacob" /> <a href="http://www.github.com/georgejacob1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 
   
   
