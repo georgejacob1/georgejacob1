@@ -1,4 +1,4 @@
-### Hi, I'm George jacob a Developer from India. 
+### Hi, I'm George jacob 
 <img align= "right" alt="Coding" width="400" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="200px"/></a>
 
   
