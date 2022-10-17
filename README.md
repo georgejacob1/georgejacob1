@@ -69,6 +69,11 @@
 ## 📊 My Github Stats
         
   <br/>
+   <img src="https://github-readme-stats-itsmeshibintmz.vercel.app/api?username=itsmeshibintmz&show_icons=true&&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> <a href="http://www.github.com/georgejacob1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+
+  
+  
+  
     <img align= "left"  alt="" src="https://github-readme-stats.vercel.app/api?username=georgejacob1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
        <img align= "cender" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>  
   <img  alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgejacob1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
