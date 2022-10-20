@@ -16,7 +16,7 @@
 
 
 ##  🎯 About me
-- 📝 Checkout my: <a href="https://georgejacob1.github.io/"><img src="https://img.shields.io/badge/-RESUME-%235F678E?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+- 📝 Checkout my: <a href="https://georgejacob1.github.io/">Resume.</a>
 - 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=jacobgeorge399@gmail.com&fs=1&tf=cm">jacobgeorge399@gmail.com</a>
 
 
