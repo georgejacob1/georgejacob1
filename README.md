@@ -16,7 +16,7 @@
 
 
 ##  🎯 About me
-- 📝 <a href="https://georgejacob.online/">https://georgejacob.online/</a>
+- 📝 <a href="https://www.georgejacob.online/">https://www.georgejacob.online/</a>
 - 📧 How to reach me: <a href="https://mail.google.com/mail/u/0/?to=jacobgeorge399@gmail.com&fs=1&tf=cm">jacobgeorge399@gmail.com</a>
 
 
