@@ -63,8 +63,10 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="30" /></a> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" /></a>  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="30" /></a> --!>
-</div>  
-##  📊 My Github Stats    
+</div></P>
+[![@georgejacob's Holopin board](https://holopin.me/georgejacob)](https://holopin.io/@georgejacob)
+<div>
+## 📊 Github stats   
   <br>
     <img align= "left"  alt="" src="https://github-readme-stats.vercel.app/api?username=georgejacob1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
        <img align= "left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>  
@@ -74,9 +76,7 @@
 <br>
 <img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=georgejacob1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
-[![@georgejacob's Holopin board](https://holopin.me/georgejacob)](https://holopin.io/@georgejacob)
-
-
+</div>
 ----
 
 
