@@ -69,22 +69,22 @@
   
 
 </div> 
-<br/>  
-<br/>  
+<br>  
+<br>  
 
 [![@georgejacob's Holopin board](https://holopin.me/georgejacob)](https://holopin.io/@georgejacob)
-
-## 📊 My Github Stats
+<p>
+##  📊 My Github Stats
         
-  <br/>
+  <br>
     <img align= "left"  alt="" src="https://github-readme-stats.vercel.app/api?username=georgejacob1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
        <img align= "left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>  
   <img  alt="" align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgejacob1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br>
  
-<br/>
+<br>
 <img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=georgejacob1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+<br>
 
 ----
 
