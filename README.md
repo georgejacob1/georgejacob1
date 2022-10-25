@@ -74,7 +74,8 @@
 <br>
 <img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=georgejacob1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
-##  📊 My Github St
+[![@georgejacob's Holopin board](https://holopin.me/georgejacob)](https://holopin.io/@georgejacob)
+
 
 ----
 
