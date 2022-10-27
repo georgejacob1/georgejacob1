@@ -4,13 +4,10 @@
   
 
 - 🧭 currently pursuing my MCA @ Amal Jyothi College,Kanjirapally.  
-  
 
-- 🎯 currently learning Python  
-  
+- 🎯 currently learning Python   
 
 - 📌 looking to collaborate with other programmers.  
-  
 
 - 🀄 Fun fact:I love to Travel.  
 
