@@ -52,38 +52,44 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> 
 <p>
 </div>
- 
+
+  
 ## 📊 Github stats   
-  <br>
+  <p>
 
  <img  alt="" align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgejacob1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+</p>
+
+
+<br> 
+  
+  
+[![@georgejacob's Holopin board](https://holopin.me/georgejacob)](https://holopin.io/@georgejacob)
+
+
+</p>
 
 
 
 
-<br>
+
 <div align="left">
-  <details>
+  <details> 
   <summary><b><h2>🎖️More..</h2></b></summary>
     <img align="left"  alt="" src="https://github-readme-stats.vercel.app/api?username=georgejacob1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     <img align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=georgejacob1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>  
 <img alt="George jacobs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=georgejacob1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-  <br>
-
 </details>
+
 </div>
 
 
 
 
-
-[![@georgejacob's Holopin board](https://holopin.me/georgejacob)](https://holopin.io/@georgejacob)
-
-
-
 ----
+
+
 
 <!-- <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></a> 
 <p> --!>
